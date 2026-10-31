@@ -4,14 +4,21 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=2f81f7&center=true&vCenter=true&width=360&height=44&lines=Hobby%20Arduino;ESP32" alt="Typing headlines" />
-</p>
-
 ### 🚀 About Me
 
-🔭 &nbsp;I'm currently working on **Házi fütés monitorozás**  
-🌱 &nbsp;I'm currently learning **Micro controllers**
+<p align="left">
+# IT Operations Specialist | Application Support Specialist | System Administrator | Technology Enthusiast
+
+I am an IT professional with a background in application operations, system administration, SQL reporting, troubleshooting, and process improvement.
+
+I enjoy understanding how systems work, solving technical challenges and finding practical ways to make technology more reliable and efficient.
+
+Beyond my professional experience, I have a strong interest in microcontrollers, embedded systems, electronics and software development.
+
+My current personal project, the Heating Monitor System (HMS), is an ESP32-based monitoring solution that brings together sensors, custom firmware, HTTP communication, and independent display units.
+
+For me, technology is not just a profession — it is also a hobby, a creative outlet, and a continuous learning experience.
+</p>
 
 ### 🛠️ Tech Stack
 
