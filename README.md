@@ -9,13 +9,13 @@
 <p align="left">
 # IT Operations Specialist | Application Support Specialist | System Administrator | Technology Enthusiast
 
-I am an IT professional with a background in application operations, system administration, SQL reporting, troubleshooting, and process improvement.
+I am an IT professional with a background in application operations, system administration, SQL reporting, troubleshooting and process improvement.
 
 I enjoy understanding how systems work, solving technical challenges and finding practical ways to make technology more reliable and efficient.
 
 Beyond my professional experience, I have a strong interest in microcontrollers, embedded systems, electronics and software development.
 
-My current personal project, the Heating Monitor System (HMS), is an ESP32-based monitoring solution that brings together sensors, custom firmware, HTTP communication, and independent display units.
+My current personal project, the Heating Monitor System (HMS), is an ESP32-based monitoring solution that brings together sensors, custom firmware, HTTP communication and independent display units.
 
 For me, technology is not just a profession — it is also a hobby, a creative outlet, and a continuous learning experience.
 </p>
@@ -64,12 +64,3 @@ For me, technology is not just a profession — it is also a hobby, a creative o
 <p align="center">
   <img width="100%" src="https://github-readme-activity-graph-gold-gamma.vercel.app/graph?username=AttilaFiel&bg_color=00000000&color=2ea043&line=2ea043&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
 </p>
-
-### 💭 Dev Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote" />
-</p>
-
----
-<p align="center"><i>⭐️ From <a href="https://github.com/AttilaFiel">AttilaFiel</a></i></p>
