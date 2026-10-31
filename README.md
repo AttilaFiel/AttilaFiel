@@ -23,6 +23,11 @@ For me, technology is not just a profession — it is also a hobby, a creative o
 ### 🛠️ Tech Stack
 
 <p align="left">
+  IT Operations & Infrastructure
+  <img src="https://img.shields.io/badge/Linux-#020204?style=for-the-badge&logo=linux&logoColor=white" alt="Linux" />
+  <img src="https://img.shields.io/badge/Ubuntu-777BB4?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
+  <img src="https://img.shields.io/badge/OpenWrt-777BB4?style=for-the-badge&logo=openwrt&logoColor=white" alt="OpenWrt" />
+  
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
